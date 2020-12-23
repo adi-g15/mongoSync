@@ -1,0 +1,14 @@
+{
+  "name": "mongo_sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Aditya Gupta",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.3"
+  }
+}
